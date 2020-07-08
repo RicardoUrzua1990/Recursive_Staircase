@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="78857ebd-06ab-47c8-b74f-d3b288aa3847" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1crPoZIO3YZrzO5ZSac1iPQC4vX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="JUnit.BinaryTreeTest.testCreateSubTreeWithoutList1">
+    <configuration name="BinaryTreeTest.testCreateSubTree1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Recursive_Exercises" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BinaryTreeTest" />
+      <option name="METHOD_NAME" value="testCreateSubTree1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BinaryTreeTest.testCreateSubTreeWithoutList1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Recursive_Exercises" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BinaryTreeTest" />
+      <option name="METHOD_NAME" value="testCreateSubTreeWithoutList1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BinaryTreeTest.testGetNodeWithThree" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Recursive_Exercises" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BinaryTreeTest" />
+      <option name="METHOD_NAME" value="testGetNodeWithThree" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BinaryTreeTest.testGetValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Recursive_Exercises" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BinaryTreeTest" />
+      <option name="METHOD_NAME" value="testGetValue" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BinaryTreeTest.testSameTree" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Recursive_Exercises" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BinaryTreeTest" />
+      <option name="METHOD_NAME" value="testSameTree" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BinaryTreeTest.testCreateSubTreeWithoutList1" />
+        <item itemvalue="JUnit.BinaryTreeTest.testGetNodeWithThree" />
+        <item itemvalue="JUnit.BinaryTreeTest.testGetValue" />
+        <item itemvalue="JUnit.BinaryTreeTest.testSameTree" />
+        <item itemvalue="JUnit.BinaryTreeTest.testCreateSubTree1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="78857ebd-06ab-47c8-b74f-d3b288aa3847" name="Default Changelist" comment="" />
+      <created>1591283914871</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591283914871</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="23" key="#Project_Structure" timestamp="1593510931458">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="23" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1593510931458" />
+    <state x="513" y="220" key="#com.intellij.debugger.actions.ViewTextAction" timestamp="1594200816623">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="513" y="220" key="#com.intellij.debugger.actions.ViewTextAction/0.0.1366.728@0.0.1366.728" timestamp="1594200816623" />
+    <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1593430215142">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.728@0.0.1366.728" timestamp="1593430215142" />
+    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser" timestamp="1593601030400">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1593601030400" />
+    <state x="382" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1592902553446">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="382" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1592902553446" />
+    <state x="413" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1592823611747">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1592823611747" />
+    <state x="413" y="112" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1592991290077">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="112" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1366.728@0.0.1366.728" timestamp="1592991290077" />
+    <state x="438" y="68" key="#xdebugger.evaluate" timestamp="1594202574794">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="438" y="68" key="#xdebugger.evaluate/0.0.1366.728@0.0.1366.728" timestamp="1594202574794" />
+    <state width="1323" height="169" key="GridCell.Tab.0.bottom" timestamp="1594203310322">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="169" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1594203310322" />
+    <state width="1323" height="169" key="GridCell.Tab.0.center" timestamp="1594203310322">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="169" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1594203310322" />
+    <state width="1323" height="169" key="GridCell.Tab.0.left" timestamp="1594203310322">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="169" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1594203310322" />
+    <state width="1323" height="169" key="GridCell.Tab.0.right" timestamp="1594203310322">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="169" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1594203310322" />
+    <state width="1323" height="210" key="GridCell.Tab.1.bottom" timestamp="1594203207461">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="210" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1594203207461" />
+    <state width="1323" height="210" key="GridCell.Tab.1.center" timestamp="1594203207461">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="210" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1594203207461" />
+    <state width="1323" height="210" key="GridCell.Tab.1.left" timestamp="1594203207461">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="210" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1594203207461" />
+    <state width="1323" height="210" key="GridCell.Tab.1.right" timestamp="1594203207461">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="210" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1594203207461" />
+    <state x="213" y="20" key="Maven.ArtifactSearchDialog" timestamp="1593429411221">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="20" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1593429411221" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1593616438844">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1593616438844" />
+    <state x="314" y="61" width="737" height="606" key="find.popup" timestamp="1591375643565">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="314" y="61" width="737" height="606" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1591375643565" />
+    <state x="389" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1593594861064">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="389" y="0" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1593594861064" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1592922708518">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1592922708518" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/LinkedList.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Palindrome.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/FindSlice.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/FindSlice.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/FindSlice.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BinaryTree.java</url>
+          <line>95</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/Armstrong.java</url>
+          <line>7</line>
+          <properties class="Armstrong" method="stringArmstrong">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/BinaryTree.java</url>
+          <line>13</line>
+          <properties class="BinaryTree" method="execute">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/BinaryTree.java</url>
+          <line>64</line>
+          <properties class="BinaryTree" method="createSubTree">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="inputTree.smaller" />
+        <watch expression="inputTree.smaller" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Recursive_Staircase$BinaryTreeTest_testGetNextByParent.ic" NAME="BinaryTreeTest.testGetNextByParent Coverage Results" MODIFIED="1593600685437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
